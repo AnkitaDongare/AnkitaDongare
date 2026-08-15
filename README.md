@@ -121,7 +121,7 @@ Worked with:
 
 ## 🤝 Let's Connect
 
-📧 Email: [your-email@example.com](mailto:ankitadongare045@gmail.com)
+📧 Email: [ankitadongare045@gmail.com](mailto:ankitadongare045@gmail.com)
 
 💼 LinkedIn: Add your LinkedIn profile here
 
