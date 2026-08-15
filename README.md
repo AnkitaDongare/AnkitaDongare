@@ -123,7 +123,8 @@ Worked with:
 
 📧 Email: [ankitadongare045@gmail.com](mailto:ankitadongare045@gmail.com)
 
-💼 LinkedIn: Add your LinkedIn profile here
+💼 LinkedIn:www.linkedin.com/in/ankita-dongare-7168a4263
+
 
 ---
 
