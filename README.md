@@ -26,8 +26,6 @@ I'm an AI & ML graduate with an interest in **Data Analytics, Machine Learning, 
 
 * Python
 * SQL
-* Java
-* C++
 
 ### Data Analytics
 
@@ -47,6 +45,15 @@ I'm an AI & ML graduate with an interest in **Data Analytics, Machine Learning, 
 * Feature Engineering
 * Data Preprocessing
 * Model Evaluation
+
+### AI & Deep Learning
+
+* Natural Language Processing (NLP)
+* Deep Learning
+* Neural Networks
+* Computer Vision
+* Object Detection
+* OCR
 
 ### Tools
 
@@ -114,7 +121,7 @@ Worked with:
 
 ## 🤝 Let's Connect
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [your-email@example.com](mailto:ankitadongare045@gmail.com)
 
 💼 LinkedIn: Add your LinkedIn profile here
 
